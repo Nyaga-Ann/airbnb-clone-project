@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="images/bnbpy.jpeg" alt="Project Architecture" width="100%" />
+  <img src="images/bnbpy.jpeg.jpeg" alt="Project Architecture" width="100%" />
 </p>
 
 # Airbnb-clone-project
